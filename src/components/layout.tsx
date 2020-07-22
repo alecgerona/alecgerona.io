@@ -8,9 +8,6 @@ import * as React from "react";
 import { StaticQuery, graphql } from "gatsby";
 
 import Header from "./header";
-import "./layout.css";
-import "typeface-dm-sans/index.css";
-import "typeface-lora/index.css";
 
 interface LayoutProps {
   children: React.ReactNode;
