@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <div align="center">
   <h1>alecgerona.io</h1>
-  <a href="https://github.com/alecgerona/alecgerona.io"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/altusgerona/alecgerona.io/Test%20across%20Python%20versions?style=for-the-badge"></a>
+  <a href="https://alecgerona.io"><img alt="GitHub Workflow Status" src="https://api.netlify.com/api/v1/badges/19e83f46-d8a9-48df-9d4c-888950b67c1c/deploy-status)](https://app.netlify.com/sites/zealous-visvesvaraya-c0c3d8/deploys"></a>
   <a href="https://mit-license.org" target="_blank"><img src="https://img.shields.io/badge/license-MIT-blue.svg?longCache=true&style=for-the-badge" alt="License"></a> 
   <a href="https://github.com/prettier/prettier"><img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?longCache=true&style=for-the-badge"></a>
   <p>My own personal website and blog.</p>
