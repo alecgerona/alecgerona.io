@@ -6,17 +6,22 @@ jobs:
   preview:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node v12
+        uses: actions/setup-node@v1
         with:
           node-version: '12'
-      - run: yarn install
+
+      - name: Install dependencies
+        run: yarn install
 
       - name: Run linter
         run: yarn lint
 
       - name: Deploy preview to Netlify
-      - uses: jsmrcaga/action-netlify-deploy@v1.1.0
+        uses: jsmrcaga/action-netlify-deploy@v1.1.0
         with:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
