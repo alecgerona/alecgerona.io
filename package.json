@@ -7,7 +7,7 @@
     "dev": "yarn type-check && gatsby develop",
     "build": "yarn type-check && gatsby build",
     "lint:js": "eslint **/*.tsx --fix",
-    "lint:style": "stylelint **/*.css --ignore-path .gitignore --fix",
+    "lint:style": "stylelint **/*.css --ignore-path .gitignore --fix --allow-empty-input",
     "lint": "yarn lint:js && yarn lint:style",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
