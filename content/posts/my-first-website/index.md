@@ -1,5 +1,5 @@
 ---
-title: My first website. 
+title: My first website
 date: "2020-07-20"
 description: "Trials and tribulations."
 featuredImage: computer.jpg
