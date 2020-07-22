@@ -34,6 +34,7 @@ html {
     @apply transition-all duration-200 ease-linear antialiased;
 
     background: var(--bg);
+    font-family: "DM Sans", sans-serif;
 }
 
 .project-card {
