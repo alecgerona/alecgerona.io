@@ -9,7 +9,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
         with:
-        node-version: '12'
+          node-version: '12'
       - run: yarn install
 
       - name: Run linter
@@ -17,11 +17,11 @@ jobs:
 
       - name: Deploy preview to Netlify
       - uses: jsmrcaga/action-netlify-deploy@v1.1.0
-          with:
-            NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-            NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-            NETLIFY_DEPLOY_TO_PROD: false
-            install_command: yarn install
-            build_directory: public
-            build_command: gatsby build
+        with:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          NETLIFY_DEPLOY_TO_PROD: false
+          install_command: yarn install
+          build_directory: public
+          build_command: gatsby build
 
