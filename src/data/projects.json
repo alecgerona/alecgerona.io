@@ -1,0 +1,45 @@
+{
+  "frontend": [
+    {
+      "name": "This website",
+      "photo": "billeaseph.png",
+      "description": "My own personal site and blog.",
+      "source": "https://github.com/alecgerona/alecgerona.com",
+      "url": "https://alecgerona.com",
+      "frameworks": [
+        "gatsby-icon.png"
+      ]
+    },
+    {
+      "name": "BillEase.ph",
+      "photo": "billeaseph.png",
+      "description": "Blissful online shopping loans.",
+      "source": null,
+      "url": "https://billease.ph",
+      "frameworks": [
+        "angular.png",
+        "django.jpg"
+      ]
+    },
+    {
+      "name": "BillEase.ph Android app",
+      "photo": "billeaseph.png",
+      "description": "BillEase PH Android app.",
+      "source": null,
+      "url": "https://play.google.com/store/apps/details?id=ph.billeasev2.mobile",
+      "frameworks": [
+        "android.jpg"
+      ]
+    }
+  ],
+  "backend": [
+    {
+      "name": "pyrmq",
+      "description": "Python with RabbitMQ—simplified so you won't have to.",
+      "source": "https://github.com/first-digital-finance/pyrmq",
+      "frameworks": [
+        "python.png"
+      ]
+    }
+  ]
+}

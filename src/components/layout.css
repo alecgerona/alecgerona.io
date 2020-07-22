@@ -1,0 +1,110 @@
+@tailwind base;
+
+html.light {
+    --bg: #fcfcfc;
+    --textNormal: #4a5568;
+    --textLink: #1a202c;
+    --project-card: #bdbdbd;
+}
+
+html.dark {
+    --bg: #141936;
+    --textNormal: #fff;
+    --textLink: #fff;
+    --project-card: #3546a8;
+}
+
+.prose p, .prose ol, .prose ul, .prose li::before, .prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6, .language-text, .prose strong {
+    color: var(--textNormal) !important;
+}
+
+.prose a {
+    color: var(--textLink) !important;
+}
+
+.gatsby-highlight {
+    @apply mb-7 -ml-5 -mr-5 rounded-lg scrolling-touch overflow-auto text-white;
+}
+
+pre[class*='language-'] {
+    @apply overflow-auto p-5;
+}
+
+html {
+    @apply transition-all duration-200 ease-linear antialiased;
+
+    background: var(--bg);
+}
+
+.project-card {
+    border-color: var(--project-card);
+}
+
+.project-card:hover {
+    border-color: var(--textNormal);
+}
+
+.token.attr-name {
+    color: rgb(173, 219, 103);
+    font-style: italic;
+}
+
+.token.comment {
+    color: rgb(128, 147, 147);
+}
+
+.token.string,
+.token.url {
+    color: rgb(173, 219, 103);
+}
+
+.token.variable {
+    color: rgb(214, 222, 235);
+}
+
+.token.number {
+    color: rgb(247, 140, 108);
+}
+
+.token.builtin,
+.token.char,
+.token.constant,
+.token.function {
+    color: rgb(130, 170, 255);
+}
+
+.token.punctuation {
+    color: rgb(199, 146, 234);
+}
+
+.token.selector,
+.token.doctype {
+    color: rgb(199, 146, 234);
+    font-style: 'italic';
+}
+
+.token.class-name {
+    color: rgb(255, 203, 139);
+}
+
+.token.tag,
+.token.operator,
+.token.keyword {
+    color: #f07178;
+}
+
+.token.boolean {
+    color: rgb(255, 88, 116);
+}
+
+.token.property {
+    color: rgb(128, 203, 196);
+}
+
+.token.namespace {
+    color: rgb(178, 204, 214);
+}
+
+@tailwind components;
+@tailwind utilities;
+
