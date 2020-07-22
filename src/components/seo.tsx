@@ -52,8 +52,6 @@ const SEO: React.FC<SEOProps> = ({ description, lang, meta, image, title }) => {
   const metaDescription = description || site.siteMetadata.description;
   const imageSrc =
     image && image.src ? `${site.siteMetadata.siteUrl}${image.src}` : null;
-  console.log(image, "image");
-  console.log(imageSrc, "imageSrc");
 
   return (
     <Helmet
