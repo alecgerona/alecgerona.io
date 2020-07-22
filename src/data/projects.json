@@ -1,11 +1,11 @@
 {
   "frontend": [
     {
-      "name": "This website",
-      "photo": "billeaseph.png",
+      "name": "alecgerona.io",
+      "photo": "alecgeronaio.png",
       "description": "My own personal site and blog.",
-      "source": "https://github.com/alecgerona/alecgerona.com",
-      "url": "https://alecgerona.com",
+      "source": "https://github.com/alecgerona/alecgerona.io",
+      "url": "https://alecgerona.io",
       "frameworks": [
         "gatsby-icon.png"
       ]
@@ -23,7 +23,7 @@
     },
     {
       "name": "BillEase.ph Android app",
-      "photo": "billeaseph.png",
+      "photo": "billease-mobile.png",
       "description": "BillEase PH Android app.",
       "source": null,
       "url": "https://play.google.com/store/apps/details?id=ph.billeasev2.mobile",

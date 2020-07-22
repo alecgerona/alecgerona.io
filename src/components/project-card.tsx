@@ -44,7 +44,11 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
             source
           </a>
         )}
-        {url && <a href={url}>view site</a>}
+        {url && (
+          <a href={url} target="_blank" rel="noreferrer">
+            view site
+          </a>
+        )}
       </div>
     </div>
   );
