@@ -49,7 +49,7 @@ too complicated or low-level to learn? Invent a new tool or solution to abstract
 this is the main push of CSS frameworks in general like Bootstrap or Foundation. Just use their components 
 masquerading as classes and you're off. But in my experience with Tailwind, it actually works both ways.
 Sure, you don't need to write CSS. Sure, it's practically inline styles. Sure, it may look "ugly" looking
-at it from the first time. 
+at it the first time. 
 
 **But it actually teaches you how CSS inherently work**. By combining the various utility classes
 you begin to understand why certain CSS styles work the way they do. Perennial questions such as 
