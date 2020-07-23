@@ -6,7 +6,7 @@ const Github: React.FC = () => {
       aria-label="Github URL"
       href="https://github.com/alecgerona"
       target="_blank"
-      rel="noreferrer"
+      rel="noopener noreferrer"
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"

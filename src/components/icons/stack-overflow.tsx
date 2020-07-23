@@ -6,7 +6,7 @@ const StackOverflow: React.FC = () => {
       aria-label="Stackoverflow URL"
       href="https://stackoverflow.com/users/story/3778645"
       target="_blank"
-      rel="noreferrer"
+      rel="noopener noreferrer"
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"

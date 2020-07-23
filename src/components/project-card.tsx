@@ -40,12 +40,17 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
       </div>
       <div className="text-left text-primary-light text-lg uppercase font-bold leading-tight m-3">
         {source && (
-          <a href={source} className="mr-3" target="_blank" rel="noreferrer">
+          <a
+            href={source}
+            className="mr-3"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             source
           </a>
         )}
         {url && (
-          <a href={url} target="_blank" rel="noreferrer">
+          <a href={url} target="_blank" rel="noopener noreferrer">
             view site
           </a>
         )}

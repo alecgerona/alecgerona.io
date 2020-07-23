@@ -6,7 +6,7 @@ const Gitlab: React.FC = () => {
       aria-label="Gitlab URL"
       href="https://gitlab.com/alecgerona"
       target="_blank"
-      rel="noreferrer"
+      rel="noopener noreferrer"
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"
