@@ -7,7 +7,7 @@
       "source": "https://github.com/alecgerona/alecgerona.io",
       "url": "https://alecgerona.io",
       "frameworks": [
-        "gatsby-icon.png"
+        "gatsby"
       ]
     },
     {
@@ -17,8 +17,8 @@
       "source": null,
       "url": "https://billease.ph",
       "frameworks": [
-        "angular.png",
-        "django.jpg"
+        "angular",
+        "django"
       ]
     },
     {
@@ -28,7 +28,7 @@
       "source": null,
       "url": "https://play.google.com/store/apps/details?id=ph.billeasev2.mobile",
       "frameworks": [
-        "android.jpg"
+        "android"
       ]
     }
   ],
@@ -38,7 +38,7 @@
       "description": "Python with RabbitMQ—simplified so you won't have to.",
       "source": "https://github.com/first-digital-finance/pyrmq",
       "frameworks": [
-        "python.png"
+        "python"
       ]
     }
   ]

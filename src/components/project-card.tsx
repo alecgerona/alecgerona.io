@@ -1,6 +1,7 @@
 import * as React from "react";
 import Image from "./image";
 import Repository from "./icons/repository";
+import FrameworkIcon from "./icons/framework-icon";
 
 interface ProjectCardProps {
   name: string;
@@ -32,8 +33,8 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
         <span className="text-left mx-4 mt-3">Built with: </span>
         {frameworks.map((src) => {
           return (
-            <div key={src} className="mt-2 mx-1 w-8">
-              <Image filename={src} alt="sample" />
+            <div key={src} className="mt-3 mx-1">
+              <FrameworkIcon icon={src} />
             </div>
           );
         })}
