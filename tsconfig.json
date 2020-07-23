@@ -8,7 +8,8 @@
     "jsx": "react",
     "lib": ["dom", "esnext"],
     "resolveJsonModule": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "skipLibCheck": true
   },
   "include": ["./src/**/*", "src/custom.d.ts"]
 }
