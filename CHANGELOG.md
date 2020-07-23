@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/alecgerona/alecgerona.io/compare/v1.0.2...v1.0.3) (2020-07-23)
+
+
+### Bug Fixes
+
+* **blog-card:** use description instead of excerpt for the blog cards ([f5f670a](https://github.com/alecgerona/alecgerona.io/commit/f5f670a33af228ddecb1cf460e43c42eb11bb8b0))
+
 ## [1.0.2](https://github.com/alecgerona/alecgerona.io/compare/v1.0.1...v1.0.2) (2020-07-23)
 
 
