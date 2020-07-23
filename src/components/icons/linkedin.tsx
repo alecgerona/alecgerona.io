@@ -6,7 +6,7 @@ const Linkedin: React.FC = () => {
       aria-label="Linkedin URL"
       href="https://www.linkedin.com/in/alexandre-gerona-557b0a112/"
       target="_blank"
-      rel="noreferrer"
+      rel="noopener noreferrer"
     >
       <svg
         xmlns="http://www.w3.org/2000/svg"
