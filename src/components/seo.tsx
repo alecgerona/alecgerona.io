@@ -34,7 +34,7 @@ interface SEOProps {
 }
 
 const SEO: React.FC<SEOProps> = ({ description, lang, meta, image, title }) => {
-  const { site } = useStaticQuery(
+  const { site, siteImage } = useStaticQuery(
     graphql`
       query {
         site {
@@ -45,13 +45,22 @@ const SEO: React.FC<SEOProps> = ({ description, lang, meta, image, title }) => {
             siteUrl
           }
         }
+        siteImage: file(relativePath: { eq: "alecgerona-share-photo.jpg" }) {
+          childImageSharp {
+            resize(width: 1200) {
+              src
+              width
+              height
+            }
+          }
+        }
       }
     `
   );
 
   const metaDescription = description || site.siteMetadata.description;
-  const imageSrc =
-    image && image.src ? `${site.siteMetadata.siteUrl}${image.src}` : null;
+  const imageDetails =
+    image && image.src ? image : siteImage.childImageSharp.resize;
 
   return (
     <Helmet
@@ -91,33 +100,24 @@ const SEO: React.FC<SEOProps> = ({ description, lang, meta, image, title }) => {
           content: metaDescription,
         },
       ]
-        .concat(
-          imageSrc
-            ? [
-                {
-                  property: "og:image",
-                  content: imageSrc,
-                },
-                {
-                  property: "og:image:width",
-                  content: image.width,
-                },
-                {
-                  property: "og:image:height",
-                  content: image.height,
-                },
-                {
-                  name: "twitter:card",
-                  content: "summary_large_image",
-                },
-              ]
-            : [
-                {
-                  name: "twitter:card",
-                  content: "summary",
-                },
-              ]
-        )
+        .concat([
+          {
+            property: "og:image",
+            content: `${site.siteMetadata.siteUrl}${imageDetails.src}`,
+          },
+          {
+            property: "og:image:width",
+            content: imageDetails.width,
+          },
+          {
+            property: "og:image:height",
+            content: imageDetails.height,
+          },
+          {
+            name: "twitter:card",
+            content: "summary_large_image",
+          },
+        ])
         .concat(meta)}
     >
       <html lang={lang} />
