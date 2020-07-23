@@ -3,7 +3,6 @@ import { Link, graphql } from "gatsby";
 import Img from "gatsby-image";
 
 import SEO from "../components/seo";
-// @ts-ignore
 import BlogLayout from "../components/blog-layout";
 
 interface BlogPostTemplateProps {
