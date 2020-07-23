@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/alecgerona/alecgerona.io/compare/v1.0.0...v1.0.1) (2020-07-23)
+
+
+### Bug Fixes
+
+* **blog-card:** make the whole blog-card clickable ([b2da736](https://github.com/alecgerona/alecgerona.io/commit/b2da7366a11cddb76c280b9b1422b37ea0ec36e7))
+
 # 1.0.0 (2020-07-23)
 
 
