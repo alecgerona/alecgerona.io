@@ -14,10 +14,10 @@ interface FieldProps {
 interface FrontmatterProps {
   date: string;
   title: string;
+  description: string;
 }
 
 interface NodeProps {
-  excerpt: string;
   frontmatter: FrontmatterProps;
   fields: FieldProps;
 }
@@ -37,9 +37,9 @@ const FeaturedBlogs: React.FC = () => (
             node {
               frontmatter {
                 title
+                description
                 date(formatString: "MMMM DD, YYYY")
               }
-              excerpt(pruneLength: 160)
               fields {
                 readingTime {
                   text
@@ -65,7 +65,7 @@ const FeaturedBlogs: React.FC = () => (
               <BlogCard
                 key={post.node.fields.slug}
                 date={post.node.frontmatter.date}
-                excerpt={post.node.excerpt}
+                description={post.node.frontmatter.description}
                 readingTime={post.node.fields.readingTime.text}
                 title={post.node.frontmatter.title}
                 slug={post.node.fields.slug}

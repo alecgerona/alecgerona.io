@@ -3,7 +3,7 @@ import { Link } from "gatsby";
 
 interface ProjectCardProps {
   title: string;
-  excerpt: string;
+  description: string;
   date: string;
   readingTime: string;
   slug: string;
@@ -11,7 +11,7 @@ interface ProjectCardProps {
 
 const BlogCard: React.FC<ProjectCardProps> = ({
   title,
-  excerpt,
+  description,
   date,
   slug,
   readingTime,
@@ -21,7 +21,7 @@ const BlogCard: React.FC<ProjectCardProps> = ({
       <div className="text-white light:text-black m-6 max-w-2xl project-card mt-10">
         <p className="flex text-xl font-sans text-primary-light">{title}</p>
         <p className="text-left mt-6 text-sm leading-7 tracking-wide">
-          {excerpt}
+          {description}
         </p>
         <div className="text-sm mt-6 flex tracking-wide leading-7 font-bold">
           <span>{date}</span>

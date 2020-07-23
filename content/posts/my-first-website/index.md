@@ -1,7 +1,7 @@
 ---
 title: My first website
-date: "2020-07-20"
-description: "Trials and tribulations."
+date: 2020-07-20
+description: Trials and tribulations. A brief look into the decisions made in making a modern blog.
 featuredImage: computer.jpg
 caption: Obligatory this is not even my setup.
 ---
@@ -11,6 +11,7 @@ I've been a programmer for years now, and I've never had my own personal
 website. Why? Probably due to a lot of factors. Never really been into frontend development
 for one. Javascript is [hell](http://mauricio.github.io/javascript-from-hell/) for two. 
 And I'm just not a fan of publicly sharing my thoughts. 
+
 ### But I need one
 I basically needed a place to write blogs (or self-tutorials since no one will read this blog
 but me if we're being honest)
