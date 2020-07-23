@@ -16,6 +16,9 @@ const BlogPostTemplate: React.FC<BlogPostTemplateProps> = ({
   data,
   pageContext,
 }) => {
+  const GITHUB_USERNAME = `alecgerona`;
+  const GITHUB_REPO_NAME = `alecgerona.io`;
+  const editUrl = `https://github.com/${GITHUB_USERNAME}/${GITHUB_REPO_NAME}/edit/master/content/posts${pageContext.slug}index.md`;
   const post = data.markdownRemark;
   const { previous, next } = pageContext;
   const image = post.frontmatter.featuredImage
@@ -51,12 +54,19 @@ const BlogPostTemplate: React.FC<BlogPostTemplateProps> = ({
         </header>
 
         <section
-          className="mt-10 prose prose-lg font-serif"
+          className="my-10 prose prose-lg font-serif"
           dangerouslySetInnerHTML={{ __html: post.html }}
         />
+        <a
+          className="text-primary-light mt-6"
+          href={editUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Questions? Typos? Violent reactions? Help me improve this post.
+        </a>
         <hr className="mt-6 mb-3" />
       </article>
-
       <nav>
         <ul className="flex flex-col p-0 text-primary-light sm:flex-row sm:justify-between">
           <li>
