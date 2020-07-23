@@ -5,6 +5,7 @@
   <a href="https://mit-license.org" target="_blank"><img src="https://img.shields.io/badge/license-MIT-blue.svg?longCache=true&style=for-the-badge" alt="License"></a> 
   <a href="https://github.com/prettier/prettier"><img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?longCache=true&style=for-the-badge"></a>
   <p>My own personal website and blog.</p>
+  <a href="https://alecgerona.io">https://alecgerona.io</a>
 </div>
 
 ## Built with
