@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/alecgerona/alecgerona.io/compare/v1.0.1...v1.0.2) (2020-07-23)
+
+
+### Bug Fixes
+
+* use current billease.ph screenshot ([4b1b784](https://github.com/alecgerona/alecgerona.io/commit/4b1b784560e3da67d20167f252b9d023f2009273))
+
 ## [1.0.1](https://github.com/alecgerona/alecgerona.io/compare/v1.0.0...v1.0.1) (2020-07-23)
 
 
