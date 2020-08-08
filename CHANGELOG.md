@@ -1,3 +1,11 @@
+## [1.0.12](https://github.com/alecgerona/alecgerona.io/compare/v1.0.11...v1.0.12) (2020-08-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency prismjs to v1.21.0 [security] ([f5dad71](https://github.com/alecgerona/alecgerona.io/commit/f5dad71e3183ca73aaa269072aad9d8aaf87019d))
+* **deps:** update gatsby monorepo ([1dcefd3](https://github.com/alecgerona/alecgerona.io/commit/1dcefd34da6e3901e36ce8dd051efa7e05e3bfbd))
+
 ## [1.0.11](https://github.com/alecgerona/alecgerona.io/compare/v1.0.10...v1.0.11) (2020-08-05)
 
 
