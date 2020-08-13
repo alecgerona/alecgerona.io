@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/alecgerona/alecgerona.io/compare/v1.0.18...v1.1.0) (2020-08-13)
+
+
+### Features
+
+* **blog:** add Dark mode with Gatsby.js and Tailwindcss ([161dad7](https://github.com/alecgerona/alecgerona.io/commit/161dad70d8c4e40d6e168b5a525558f79c519686))
+
 ## [1.0.18](https://github.com/alecgerona/alecgerona.io/compare/v1.0.17...v1.0.18) (2020-08-13)
 
 
