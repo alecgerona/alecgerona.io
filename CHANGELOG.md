@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/alecgerona/alecgerona.io/compare/v1.1.5...v1.2.0) (2020-09-24)
+
+
+### Features
+
+* update billease thumbnail and framework ([31e2e1a](https://github.com/alecgerona/alecgerona.io/commit/31e2e1a5345114ef3d8dc6ca59c76306cac04043))
+
 ## [1.1.5](https://github.com/alecgerona/alecgerona.io/compare/v1.1.4...v1.1.5) (2020-09-15)
 
 
