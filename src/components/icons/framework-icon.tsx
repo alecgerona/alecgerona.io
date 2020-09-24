@@ -5,6 +5,7 @@ import Django from "./django";
 import Flask from "./flask";
 import Gatsby from "./gatsby";
 import Python from "./python";
+import Nuxt from "./nuxt";
 
 interface FrameworkIconProps {
   icon: string;
@@ -18,6 +19,7 @@ const FrameworkIcon: React.FC<FrameworkIconProps> = ({ icon }) => {
     flask: Flask,
     gatsby: Gatsby,
     python: Python,
+    nuxt: Nuxt,
   };
   const Icon = icons[icon];
   return <Icon />;
