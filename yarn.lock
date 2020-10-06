@@ -18000,10 +18000,10 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typeface-dm-sans@1.1.3:
-  version "1.1.3"
-  resolved "https://registry.yarnpkg.com/typeface-dm-sans/-/typeface-dm-sans-1.1.3.tgz#bf955060c7b16ac9f360b1692acf2b0e66e9ac11"
-  integrity sha512-ejUMYBGVp7RIIm4w1KaTaOE01JXFv7ChV5QQmVjqWzLZaXte6bZDBaAjGGizW0lmRrphzjZ3MQxjn+KV2RLA/Q==
+typeface-dm-sans@1.1.13:
+  version "1.1.13"
+  resolved "https://registry.yarnpkg.com/typeface-dm-sans/-/typeface-dm-sans-1.1.13.tgz#6bc7135b79653698bd67888279cf9ffa12b6e337"
+  integrity sha512-3hxynNc9Lk+WErlzSZ/7P7/37b98cOTIlfqT1fIcsDnlzifsd1a2vGNbhK9bDGt6Gxs+1z39UwAJjdvuLLXZmg==
 
 typeface-lora@0.0.72:
   version "0.0.72"
