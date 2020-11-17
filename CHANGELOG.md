@@ -1,3 +1,11 @@
+## [1.2.5](https://github.com/alecgerona/alecgerona.io/compare/v1.2.4...v1.2.5) (2020-11-17)
+
+
+### Bug Fixes
+
+* **deps:** update dependency typeface-dm-sans to v1.1.13 ([d78e2dc](https://github.com/alecgerona/alecgerona.io/commit/d78e2dc43ad59ddaf016bada284171df03b3181a))
+* **deps:** update gatsby monorepo ([1c9e7cb](https://github.com/alecgerona/alecgerona.io/commit/1c9e7cbd217293d940d782fcd94bbc59342f437f))
+
 ## [1.2.4](https://github.com/alecgerona/alecgerona.io/compare/v1.2.3...v1.2.4) (2020-11-17)
 
 
