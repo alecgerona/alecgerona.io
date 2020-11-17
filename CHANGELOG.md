@@ -1,3 +1,10 @@
+## [1.2.6](https://github.com/alecgerona/alecgerona.io/compare/v1.2.5...v1.2.6) (2020-11-17)
+
+
+### Bug Fixes
+
+* **deps:** update react monorepo to v16.14.0 ([640b00b](https://github.com/alecgerona/alecgerona.io/commit/640b00b84cc5cddf088e828b50b65af2ddeac7c1))
+
 ## [1.2.5](https://github.com/alecgerona/alecgerona.io/compare/v1.2.4...v1.2.5) (2020-11-17)
 
 
