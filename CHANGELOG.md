@@ -1,3 +1,10 @@
+## [1.2.9](https://github.com/alecgerona/alecgerona.io/compare/v1.2.8...v1.2.9) (2020-11-23)
+
+
+### Bug Fixes
+
+* **deps:** update dependency gatsby-source-filesystem to v2.6.1 ([95be019](https://github.com/alecgerona/alecgerona.io/commit/95be019e5c1b5db093909be29165c25d06b55b73))
+
 ## [1.2.8](https://github.com/alecgerona/alecgerona.io/compare/v1.2.7...v1.2.8) (2020-11-19)
 
 
