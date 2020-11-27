@@ -1,3 +1,10 @@
+## [1.2.14](https://github.com/alecgerona/alecgerona.io/compare/v1.2.13...v1.2.14) (2020-11-27)
+
+
+### Bug Fixes
+
+* **deps:** update dependency gatsby-plugin-sharp to v2.9.1 ([ed30fc5](https://github.com/alecgerona/alecgerona.io/commit/ed30fc5782f9f438d4d63b6d73678ad986956f71))
+
 ## [1.2.13](https://github.com/alecgerona/alecgerona.io/compare/v1.2.12...v1.2.13) (2020-11-26)
 
 
