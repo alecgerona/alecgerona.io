@@ -1,3 +1,10 @@
+## [1.2.21](https://github.com/alecgerona/alecgerona.io/compare/v1.2.20...v1.2.21) (2020-12-21)
+
+
+### Bug Fixes
+
+* **deps:** update dependency gatsby-plugin-robots-txt to v1.5.5 ([6bcbca6](https://github.com/alecgerona/alecgerona.io/commit/6bcbca657f6bed1306042ac1c178db8e56d60f6b))
+
 ## [1.2.20](https://github.com/alecgerona/alecgerona.io/compare/v1.2.19...v1.2.20) (2020-12-16)
 
 
