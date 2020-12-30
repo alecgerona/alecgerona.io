@@ -1,3 +1,10 @@
+## [1.2.23](https://github.com/alecgerona/alecgerona.io/compare/v1.2.22...v1.2.23) (2020-12-30)
+
+
+### Bug Fixes
+
+* **deps:** update dependency gatsby to v2.29.3 ([aaada23](https://github.com/alecgerona/alecgerona.io/commit/aaada239467d95d0fe27537e99c23ee2d62ffe41))
+
 ## [1.2.22](https://github.com/alecgerona/alecgerona.io/compare/v1.2.21...v1.2.22) (2020-12-23)
 
 
