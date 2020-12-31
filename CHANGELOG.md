@@ -1,3 +1,10 @@
+## [1.2.24](https://github.com/alecgerona/alecgerona.io/compare/v1.2.23...v1.2.24) (2020-12-31)
+
+
+### Bug Fixes
+
+* **deps:** update dependency prismjs to v1.23.0 ([f422d0a](https://github.com/alecgerona/alecgerona.io/commit/f422d0a37cce6ba63c5363cfb66c995afa3bc6fd))
+
 ## [1.2.23](https://github.com/alecgerona/alecgerona.io/compare/v1.2.22...v1.2.23) (2020-12-30)
 
 
