@@ -8097,15 +8097,15 @@ gatsby-page-utils@^0.9.1:
     lodash "^4.17.20"
     micromatch "^4.0.2"
 
-gatsby-plugin-feed@2.13.0:
-  version "2.13.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-feed/-/gatsby-plugin-feed-2.13.0.tgz#18228373d3674f428529d9b2cca9ff94e6b369b4"
-  integrity sha512-dQQ0RzSEqfkJxshpNhNm4BCizUWw+Y57qvweiaz2W8+v4wRcuTKGSEr1aKWd93lrkVgiWaJoqDUnidrK9RKQcQ==
+gatsby-plugin-feed@2.13.1:
+  version "2.13.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-feed/-/gatsby-plugin-feed-2.13.1.tgz#06000ed99979efaeb2e3afc978c4ccbdaa11b6dc"
+  integrity sha512-/Zl4Sp+eRiMaH5QrOmckSbjvgsVYcuZhNgAi/GAPrdBYLBhsGAEdBsLxRDb6Lhi28gvqpjV8CYXV6kfePMZ7hg==
   dependencies:
     "@babel/runtime" "^7.12.5"
     "@hapi/joi" "^15.1.1"
     common-tags "^1.8.0"
-    fs-extra "^8.1.0"
+    fs-extra "^9.1.0"
     gatsby-plugin-utils "^0.9.0"
     lodash.merge "^4.6.2"
     rss "^1.2.2"
@@ -8179,10 +8179,10 @@ gatsby-plugin-robots-txt@1.5.5:
     "@babel/runtime" "^7.11.2"
     generate-robotstxt "^8.0.3"
 
-gatsby-plugin-sharp@2.14.2:
-  version "2.14.2"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-2.14.2.tgz#9ffe1490d7466f932b8d7095eab64c6a36233e1a"
-  integrity sha512-XzBxWfcqfj7M0q2YR97hV5LHaOIZ2SYDCHSvXSJbhly8LTMMhpLBhJeFiTjCUfKz4ldeERqvx7wZia1lABxdiA==
+gatsby-plugin-sharp@2.14.3:
+  version "2.14.3"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-2.14.3.tgz#80970bd9604cdbb0005a222fb61bcd0e093e1a23"
+  integrity sha512-cUzaRA9DE6VzUREStNIy3gFujUefwlPmqumHm8YJGJspW9x8jxNBTXh2kc7tR8GqINFXneoEY4ywnR1WiWB7fA==
   dependencies:
     "@babel/runtime" "^7.12.5"
     async "^3.2.0"
@@ -8458,10 +8458,10 @@ gatsby-transformer-sharp@2.12.0:
     semver "^7.3.4"
     sharp "^0.27.0"
 
-gatsby@2.32.6:
-  version "2.32.6"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.32.6.tgz#90f0b4c1e4f0fc78ef6e99fd1209b0ec51320016"
-  integrity sha512-HZmBZnjOSaXvrIbnlP29QAB9RyGcitnp/an5lWLH2C7cvU/uhqkE0ERWgIHym5+ABBAwpAKT0e1KQh9RbzgMdw==
+gatsby@2.32.7:
+  version "2.32.7"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.32.7.tgz#65b9df2e19016694868536c8e853e52f4561c037"
+  integrity sha512-oJxS0XW5VOMBUFgrWABw2zAUgfAuiqKowGWjnyID6UxCDwmqQ0LqqpqsJQELeHRmQxtmdI57sMCK6ysnebru1Q==
   dependencies:
     "@babel/code-frame" "^7.10.4"
     "@babel/core" "^7.12.3"
