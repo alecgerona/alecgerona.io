@@ -23,7 +23,7 @@ html.dark {
 }
 
 .gatsby-highlight {
-    @apply mb-7 -ml-5 -mr-5 rounded-lg scrolling-touch overflow-auto text-white;
+    @apply mb-7 -ml-5 -mr-5 rounded-lg overflow-auto text-white;
 }
 
 pre[class*='language-'] {
