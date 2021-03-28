@@ -5,7 +5,6 @@ module.exports = {
     `eslint:recommended`,
     `plugin:react/recommended`,
     `plugin:@typescript-eslint/recommended`,
-    `prettier/@typescript-eslint`,
     `plugin:prettier/recommended`,
   ],
   settings: {
@@ -32,6 +31,7 @@ module.exports = {
     "@typescript-eslint/explicit-function-return-type": `off`,
     "@typescript-eslint/ban-ts-comment": `off`,
     "@typescript-eslint/ban-ts-ignore": `off`,
+    "@typescript-eslint/no-explicit-any": "off",
   },
   overrides: [
     // Override some TypeScript rules just for .js files
