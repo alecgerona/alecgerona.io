@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/alecgerona/alecgerona.io/compare/v1.2.47...v1.3.0) (2021-03-28)
+
+
+### Features
+
+* **blog:** pyrmq ([1c778b1](https://github.com/alecgerona/alecgerona.io/commit/1c778b1d35d2bd988dac6daf4a5443cdc908556c))
+
 ## [1.2.47](https://github.com/alecgerona/alecgerona.io/compare/v1.2.46...v1.2.47) (2021-03-10)
 
 
