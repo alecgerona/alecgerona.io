@@ -1,3 +1,10 @@
+## [1.3.25](https://github.com/alecgerona/alecgerona.io/compare/v1.3.24...v1.3.25) (2021-05-25)
+
+
+### Bug Fixes
+
+* **deps:** update gatsby monorepo ([b00aabe](https://github.com/alecgerona/alecgerona.io/commit/b00aabe7e67f09489aa37667e738c6d22cf0fa0b))
+
 ## [1.3.24](https://github.com/alecgerona/alecgerona.io/compare/v1.3.23...v1.3.24) (2021-05-24)
 
 
