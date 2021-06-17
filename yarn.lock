@@ -17394,10 +17394,10 @@ typeface-lora@1.1.13:
   resolved "https://registry.yarnpkg.com/typeface-lora/-/typeface-lora-1.1.13.tgz#eb462416dd060fb90e51455bbdb9fea1c3e8db63"
   integrity sha512-Y02iTW9l8PzGWkEVPqFJ4lVfckZHbYB+CZLKb5WsVRWjkKn/wo1X5OwlOwdKr8Tt+HzcgkOzwbdqY6CMgVO0tw==
 
-typescript@4.3.2:
-  version "4.3.2"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.3.2.tgz#399ab18aac45802d6f2498de5054fcbbe716a805"
-  integrity sha512-zZ4hShnmnoVnAHpVHWpTcxdv7dWP60S2FsydQLV8V5PbS3FifjWFFRiHSWpDJahly88PRyV5teTSLoq4eG7mKw==
+typescript@4.3.3:
+  version "4.3.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.3.3.tgz#5401db69bd3203daf1851a1a74d199cb3112c11a"
+  integrity sha512-rUvLW0WtF7PF2b9yenwWUi9Da9euvDRhmH7BLyBG4DCFfOJ850LGNknmRpp8Z8kXNUPObdZQEfKOiHtXuQHHKA==
 
 uglify-js@^3.1.4:
   version "3.13.2"
