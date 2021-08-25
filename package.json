@@ -94,7 +94,7 @@
     "husky": "7.0.2",
     "lint-staged": "10.5.4",
     "prettier": "2.3.2",
-    "semantic-release": "17.4.6",
+    "semantic-release": "17.4.7",
     "stylelint": "13.13.1",
     "stylelint-config-prettier": "8.0.2",
     "stylelint-config-standard": "21.0.0",
