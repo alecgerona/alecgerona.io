@@ -1,3 +1,10 @@
+## [1.3.62](https://github.com/alecgerona/alecgerona.io/compare/v1.3.61...v1.3.62) (2021-09-17)
+
+
+### Bug Fixes
+
+* **deps:** update gatsby monorepo ([e108b79](https://github.com/alecgerona/alecgerona.io/commit/e108b79daae730bb54b909fdc04f06f2b077e7e5))
+
 ## [1.3.61](https://github.com/alecgerona/alecgerona.io/compare/v1.3.60...v1.3.61) (2021-09-16)
 
 
