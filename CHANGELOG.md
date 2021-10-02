@@ -1,3 +1,15 @@
+# [1.4.0](https://github.com/alecgerona/alecgerona.io/compare/v1.3.65...v1.4.0) (2021-10-02)
+
+
+### Bug Fixes
+
+* **rss:** add default config for gatsby-plugin-feed to work ([2b724be](https://github.com/alecgerona/alecgerona.io/commit/2b724beab2eb789a3464ee86e3fbb6661024cfb5))
+
+
+### Features
+
+* **blog:** letsEncrypt expiry ([2add32d](https://github.com/alecgerona/alecgerona.io/commit/2add32dce88f165ba69fa8804daa18be617d000d))
+
 ## [1.3.65](https://github.com/alecgerona/alecgerona.io/compare/v1.3.64...v1.3.65) (2021-09-30)
 
 
