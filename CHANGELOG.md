@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/alecgerona/alecgerona.io/compare/v1.4.4...v1.5.0) (2021-10-07)
+
+
+### Features
+
+* **blog:** macos development environment ([dee21d1](https://github.com/alecgerona/alecgerona.io/commit/dee21d1ff9a9c26049c2b4a2da0253fb64199008))
+
 ## [1.4.4](https://github.com/alecgerona/alecgerona.io/compare/v1.4.3...v1.4.4) (2021-10-06)
 
 
