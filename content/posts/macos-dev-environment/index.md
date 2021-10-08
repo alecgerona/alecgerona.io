@@ -106,7 +106,7 @@ the package manager that, like most things in a Pro Apple product, never had bui
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-Afterwards you get access to package manager staples such as `brew install <package-name` 
+Afterwards you get access to package manager staples such as `brew install <package-name>` 
 among others.
 
 ## 4. [ZSH](https://en.wikipedia.org/wiki/Z_shell)
