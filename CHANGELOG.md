@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/alecgerona/alecgerona.io/compare/v1.5.0...v1.5.1) (2021-10-08)
+
+
+### Bug Fixes
+
+* **macos:** fix typo ([b49888f](https://github.com/alecgerona/alecgerona.io/commit/b49888f0c7682dac1843cc5d14eb0fcd18dd8e08))
+
 # [1.5.0](https://github.com/alecgerona/alecgerona.io/compare/v1.4.4...v1.5.0) (2021-10-07)
 
 
