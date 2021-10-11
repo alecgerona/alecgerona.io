@@ -1,3 +1,10 @@
+## [1.5.3](https://github.com/alecgerona/alecgerona.io/compare/v1.5.2...v1.5.3) (2021-10-11)
+
+
+### Bug Fixes
+
+* **macos-post:** add missing commands necessary for some terminal commands ([dd10fb8](https://github.com/alecgerona/alecgerona.io/commit/dd10fb872d1c8a74fb57d7ab79da5f830330a37f))
+
 ## [1.5.2](https://github.com/alecgerona/alecgerona.io/compare/v1.5.1...v1.5.2) (2021-10-10)
 
 
