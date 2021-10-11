@@ -146,7 +146,7 @@ This is where zsh plugins are commonly installed by default. I prefer manually i
 we're gonna clone the autosuggest repository ourselves.
 
 ```shell
-git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
 ```
 
 Then add the following line to the top of your `.zshrc.local` file. 
@@ -162,7 +162,7 @@ Next is syntax highlighting. A minor QoL sure, but still important for those lon
 Installation is pretty much similar.
 
 ```shell
-git clone https://github.com/zsh-users/zsh-syntax-highlighting ~/.zsh
+git clone https://github.com/zsh-users/zsh-syntax-highlighting ~/.zsh/zsh-syntax-highlighting
 ```
 
 Add the following line near the top of your `.zshrc.local`.
@@ -232,6 +232,7 @@ First of, install it.
 
 ```shell
 brew install fzf
+/usr/local/opt/fzf/install
 ```
 
 This allows usage of the `fzf` cli command and enables a bunch of commands out of the gate.
