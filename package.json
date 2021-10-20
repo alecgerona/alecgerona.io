@@ -80,7 +80,7 @@
     "@semantic-release/github": "7.2.3",
     "@types/node": "14.17.27",
     "@types/react": "17.0.30",
-    "@types/react-dom": "17.0.9",
+    "@types/react-dom": "17.0.10",
     "@types/react-helmet": "6.1.4",
     "@types/vfile-message": "2.0.0",
     "@typescript-eslint/eslint-plugin": "4.33.0",
