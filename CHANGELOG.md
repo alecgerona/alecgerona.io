@@ -1,3 +1,10 @@
+## [1.5.6](https://github.com/alecgerona/alecgerona.io/compare/v1.5.5...v1.5.6) (2021-10-20)
+
+
+### Bug Fixes
+
+* **deps:** update dependency postcss to v8.3.10 ([bc963a1](https://github.com/alecgerona/alecgerona.io/commit/bc963a1b6c8e153f2a8dc891207b1eee2232d636))
+
 ## [1.5.5](https://github.com/alecgerona/alecgerona.io/compare/v1.5.4...v1.5.5) (2021-10-19)
 
 
