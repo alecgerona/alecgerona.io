@@ -5,6 +5,9 @@ import Img from "gatsby-image";
 import SEO from "../components/seo";
 import BlogLayout from "../components/blog-layout";
 
+// @ts-ignore
+import { Disqus } from "gatsby-plugin-disqus";
+
 interface BlogPostTemplateProps {
   data: any;
   pageContext: any;
@@ -23,6 +26,11 @@ const BlogPostTemplate: React.FC<BlogPostTemplateProps> = ({
   const image = post.frontmatter.featuredImage
     ? post.frontmatter.featuredImage.childImageSharp.resize
     : null;
+  const disqusConfig = {
+    url: location.hostname + location.pathname,
+    identifier: pageContext.slug,
+    title: post.frontmatter.title,
+  };
 
   return (
     <BlogLayout>
@@ -84,6 +92,7 @@ const BlogPostTemplate: React.FC<BlogPostTemplateProps> = ({
           </li>
         </ul>
       </nav>
+      <Disqus config={disqusConfig} />
     </BlogLayout>
   );
 };
