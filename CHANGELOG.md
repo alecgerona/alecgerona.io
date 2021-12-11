@@ -1,3 +1,10 @@
+## [1.6.1](https://github.com/alecgerona/alecgerona.io/compare/v1.6.0...v1.6.1) (2021-12-11)
+
+
+### Bug Fixes
+
+* **comments:** remove dependency on window.location on page creation ([79d19fc](https://github.com/alecgerona/alecgerona.io/commit/79d19fc9dee6e3150c9788609a81a9817471f0b1))
+
 # [1.6.0](https://github.com/alecgerona/alecgerona.io/compare/v1.5.18...v1.6.0) (2021-12-11)
 
 
