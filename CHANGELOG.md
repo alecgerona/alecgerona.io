@@ -1,3 +1,10 @@
+## [1.6.2](https://github.com/alecgerona/alecgerona.io/compare/v1.6.1...v1.6.2) (2021-12-11)
+
+
+### Bug Fixes
+
+* **comments:** add protocol to disqus' config url ([4fc10c2](https://github.com/alecgerona/alecgerona.io/commit/4fc10c2961f790c88dffab179e5a38a3360f8c7e))
+
 ## [1.6.1](https://github.com/alecgerona/alecgerona.io/compare/v1.6.0...v1.6.1) (2021-12-11)
 
 
