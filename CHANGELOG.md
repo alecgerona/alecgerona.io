@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/alecgerona/alecgerona.io/compare/v1.5.18...v1.6.0) (2021-12-11)
+
+
+### Features
+
+* **comments:** add disqus ([21002a0](https://github.com/alecgerona/alecgerona.io/commit/21002a0170655caeb0544fc60bb2bd07eea79e4c))
+
 ## [1.5.18](https://github.com/alecgerona/alecgerona.io/compare/v1.5.17...v1.5.18) (2021-11-27)
 
 
