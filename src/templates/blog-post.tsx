@@ -27,7 +27,7 @@ const BlogPostTemplate: React.FC<BlogPostTemplateProps> = ({
     ? post.frontmatter.featuredImage.childImageSharp.resize
     : null;
   const disqusConfig = {
-    url: location.hostname + location.pathname,
+    url: GITHUB_REPO_NAME + pageContext.slug,
     identifier: pageContext.slug,
     title: post.frontmatter.title,
   };
