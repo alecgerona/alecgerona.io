@@ -1,6 +1,6 @@
 import React from "react";
 import { Link, graphql } from "gatsby";
-import Img from "gatsby-image";
+import { GatsbyImage } from "gatsby-plugin-image";
 
 import SEO from "../components/seo";
 import BlogLayout from "../components/blog-layout";
@@ -42,7 +42,12 @@ const BlogPostTemplate: React.FC<BlogPostTemplateProps> = ({
       <article>
         {post.frontmatter.featuredImage && (
           <div className="mb-5">
-            <Img fluid={post.frontmatter.featuredImage.childImageSharp.fluid} />
+            <GatsbyImage
+              alt="Article photo"
+              image={
+                post.frontmatter.featuredImage.childImageSharp.gatsbyImageData
+              }
+            />
             <div className="mt-3 text-white light:text-gray-700 text-sm text-center">
               {post.frontmatter.caption}
             </div>
@@ -116,9 +121,7 @@ export const pageQuery = graphql`
         description
         featuredImage {
           childImageSharp {
-            fluid(maxWidth: 800) {
-              ...GatsbyImageSharpFluid
-            }
+            gatsbyImageData(width: 800, layout: CONSTRAINED)
             resize(width: 1200) {
               src
               height
