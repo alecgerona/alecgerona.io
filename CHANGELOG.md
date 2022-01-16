@@ -1,3 +1,11 @@
+## [1.6.6](https://github.com/alecgerona/alecgerona.io/compare/v1.6.5...v1.6.6) (2022-01-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @tailwindcss/typography to v0.5.0 ([7236d6d](https://github.com/alecgerona/alecgerona.io/commit/7236d6d6442d48d923555a05f0b0ed5d28fceb31))
+* **deps:** update dependency prismjs to v1.26.0 ([d18fb79](https://github.com/alecgerona/alecgerona.io/commit/d18fb799a0300ce3549a1b75716aa5340d9f116e))
+
 ## [1.6.5](https://github.com/alecgerona/alecgerona.io/compare/v1.6.4...v1.6.5) (2022-01-16)
 
 
