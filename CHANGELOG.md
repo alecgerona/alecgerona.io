@@ -1,3 +1,11 @@
+## [1.6.7](https://github.com/alecgerona/alecgerona.io/compare/v1.6.6...v1.6.7) (2022-01-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency prop-types to v15.8.1 ([776f7fb](https://github.com/alecgerona/alecgerona.io/commit/776f7fb61837a2a01bb95d654b0f9fc28f8e2ad1))
+* **deps:** update dependency react-spring to v9.4.2 ([e74d809](https://github.com/alecgerona/alecgerona.io/commit/e74d809cbd64ec5d12bba9e5eec1df39ec4024e7))
+
 ## [1.6.6](https://github.com/alecgerona/alecgerona.io/compare/v1.6.5...v1.6.6) (2022-01-16)
 
 
