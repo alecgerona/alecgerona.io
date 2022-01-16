@@ -3259,11 +3259,6 @@ acorn@^8.4.1:
   resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.7.0.tgz#90951fde0f8f09df93549481e5fc141445b791cf"
   integrity sha512-V/LGr1APy+PXIwKebEWrkZPwoeoF+w1jiOBUmuxuiUIaOHtob8Qc9BTrYo7VuI5fR8tqsy+buA2WFooR5olqvQ==
 
-acorn@^8.4.1:
-  version "8.7.0"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-8.7.0.tgz#90951fde0f8f09df93549481e5fc141445b791cf"
-  integrity sha512-V/LGr1APy+PXIwKebEWrkZPwoeoF+w1jiOBUmuxuiUIaOHtob8Qc9BTrYo7VuI5fR8tqsy+buA2WFooR5olqvQ==
-
 address@1.1.2, address@^1.0.1:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/address/-/address-1.1.2.tgz#bf1116c9c758c51b7a933d296b72c221ed9428b6"
@@ -7467,7 +7462,7 @@ gatsby-page-utils@^2.5.1:
     lodash "^4.17.21"
     micromatch "^4.0.4"
 
-gatsby-plugin-disqus@^1.2.3:
+gatsby-plugin-disqus@1.2.3:
   version "1.2.3"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-disqus/-/gatsby-plugin-disqus-1.2.3.tgz#c0ad7920860cf0f6f2d8ad256869b1d4591365ac"
   integrity sha512-HjsMCGPt1qI/oryCw1NJjFS6XQ99eQmsXjrxxRi295sjlpvvcnNXlB11O7v4BbjNu2euqCY6XzK/fBkYJjjgCQ==
@@ -7494,7 +7489,7 @@ gatsby-plugin-google-analytics@4.5.0:
     minimatch "3.0.4"
     web-vitals "^1.1.2"
 
-gatsby-plugin-image@^2.5.1:
+gatsby-plugin-image@2.5.1:
   version "2.5.1"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-image/-/gatsby-plugin-image-2.5.1.tgz#6828d0b827f9efc6202a4b53f6802dfe704ffcce"
   integrity sha512-ueJ4hWO5j0ERiaqGl4WExivwLCI5Zydo3dYsGB+mgU8cALoOv+dqoj6lIVX/fJKiolJMg/P/7DSwAbeAq74TYw==
@@ -7577,7 +7572,7 @@ gatsby-plugin-robots-txt@1.6.14:
     "@babel/runtime" "^7.15.4"
     generate-robotstxt "^8.0.3"
 
-gatsby-plugin-sharp@^4.5.1:
+gatsby-plugin-sharp@4.5.1:
   version "4.5.1"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-4.5.1.tgz#a6341e8be7be1da8c8510c92c3fdf68e97086734"
   integrity sha512-q2XWcnZX71FVd3hAw8Qb+x6hT1W/OOUhr4Shx5YrcwTJ5X9wnBsdK9o1CevXqDnjrEDipA8nXg1gq9Xa7zJdzw==
@@ -7777,7 +7772,7 @@ gatsby-transformer-remark@5.5.1:
     unist-util-select "^3.0.4"
     unist-util-visit "^2.0.3"
 
-gatsby-transformer-sharp@^4.5.0:
+gatsby-transformer-sharp@4.5.0:
   version "4.5.0"
   resolved "https://registry.yarnpkg.com/gatsby-transformer-sharp/-/gatsby-transformer-sharp-4.5.0.tgz#d5708dc95321d938add7c72d8b50cdc786c4bf05"
   integrity sha512-q4bbDsb9TrzCMoV+O9qVfC+vew0N8x5jSGkfpxh8oHbu3d2JAToD5BisGh3hCVojoUCkVMszjDnJZ5TXiyJumQ==
