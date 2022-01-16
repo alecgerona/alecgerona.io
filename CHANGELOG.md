@@ -1,3 +1,10 @@
+## [1.6.4](https://github.com/alecgerona/alecgerona.io/compare/v1.6.3...v1.6.4) (2022-01-16)
+
+
+### Bug Fixes
+
+* **deps:** pin dependencies ([ec99b53](https://github.com/alecgerona/alecgerona.io/commit/ec99b53644ba1ce8c92d142a8582e1bb1fe36d06))
+
 ## [1.6.3](https://github.com/alecgerona/alecgerona.io/compare/v1.6.2...v1.6.3) (2022-01-16)
 
 
