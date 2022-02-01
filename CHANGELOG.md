@@ -1,3 +1,10 @@
+## [1.6.15](https://github.com/alecgerona/alecgerona.io/compare/v1.6.14...v1.6.15) (2022-02-01)
+
+
+### Bug Fixes
+
+* **deps:** update dependency gatsby to v4.6.1 ([ef6accc](https://github.com/alecgerona/alecgerona.io/commit/ef6accca510dc947351dc70db29fadfeecaee90f))
+
 ## [1.6.14](https://github.com/alecgerona/alecgerona.io/compare/v1.6.13...v1.6.14) (2022-02-01)
 
 
