@@ -1,3 +1,10 @@
+## [1.6.19](https://github.com/alecgerona/alecgerona.io/compare/v1.6.18...v1.6.19) (2022-02-12)
+
+
+### Bug Fixes
+
+* **deps:** update dependency react-spring to v9.4.3 ([b5333c5](https://github.com/alecgerona/alecgerona.io/commit/b5333c546412a4a65a4598f11886335d855c5991))
+
 ## [1.6.18](https://github.com/alecgerona/alecgerona.io/compare/v1.6.17...v1.6.18) (2022-02-09)
 
 
