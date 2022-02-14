@@ -39,7 +39,7 @@
     ]
   },
   "dependencies": {
-    "@tailwindcss/typography": "0.5.1",
+    "@tailwindcss/typography": "0.5.2",
     "gatsby": "4.7.1",
     "gatsby-plugin-disqus": "1.2.3",
     "gatsby-plugin-feed": "4.7.0",
