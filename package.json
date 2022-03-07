@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@tailwindcss/typography": "0.5.2",
-    "gatsby": "4.9.1",
+    "gatsby": "4.9.2",
     "gatsby-plugin-disqus": "1.2.3",
     "gatsby-plugin-feed": "4.9.0",
     "gatsby-plugin-google-analytics": "4.9.0",
