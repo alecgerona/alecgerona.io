@@ -1,3 +1,11 @@
+# [1.7.0](https://github.com/alecgerona/alecgerona.io/compare/v1.6.32...v1.7.0) (2022-03-11)
+
+
+### Features
+
+* **blog:** write building-my-nas ([7b5f344](https://github.com/alecgerona/alecgerona.io/commit/7b5f34412f6437381578003e6501a6f5e45da6c9))
+* **blog:** write media-automation ([1fd7af8](https://github.com/alecgerona/alecgerona.io/commit/1fd7af86e408071fecf0fecee3ae653679cd2ce6))
+
 ## [1.6.32](https://github.com/alecgerona/alecgerona.io/compare/v1.6.31...v1.6.32) (2022-03-11)
 
 
