@@ -68,7 +68,7 @@
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-helmet": "6.1.0",
-    "react-spring": "9.4.3",
+    "react-spring": "9.4.4",
     "typeface-dm-sans": "1.1.13",
     "typeface-lora": "1.1.13"
   },
