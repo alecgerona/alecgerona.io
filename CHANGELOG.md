@@ -1,3 +1,11 @@
+## [1.7.7](https://github.com/alecgerona/alecgerona.io/compare/v1.7.6...v1.7.7) (2022-03-29)
+
+
+### Bug Fixes
+
+* **deps:** update gatsby monorepo ([fe4521c](https://github.com/alecgerona/alecgerona.io/commit/fe4521c32ed313403071f4a621477d8a1f89c1f2))
+* **deps:** update react monorepo to v18 ([8a43979](https://github.com/alecgerona/alecgerona.io/commit/8a43979fe06b605bd8cd98681d202785af2068c6))
+
 ## [1.7.6](https://github.com/alecgerona/alecgerona.io/compare/v1.7.5...v1.7.6) (2022-03-25)
 
 
