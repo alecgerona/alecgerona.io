@@ -62,7 +62,7 @@
     "gatsby-transformer-json": "4.13.0",
     "gatsby-transformer-remark": "5.13.0",
     "gatsby-transformer-sharp": "4.13.0",
-    "postcss": "8.4.12",
+    "postcss": "8.4.13",
     "prismjs": "1.28.0",
     "prop-types": "15.8.1",
     "react": "18.1.0",
