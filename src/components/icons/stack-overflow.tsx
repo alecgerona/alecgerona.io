@@ -4,7 +4,7 @@ const StackOverflow: React.FC = () => {
   return (
     <a
       aria-label="Stackoverflow URL"
-      href="https://stackoverflow.com/users/story/3778645"
+      href="https://stackoverflow.com/users/3778645/alec-gerona"
       target="_blank"
       rel="noopener noreferrer"
     >
