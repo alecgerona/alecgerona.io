@@ -93,7 +93,7 @@
     "eslint-plugin-react": "7.30.0",
     "gatsby-plugin-postcss": "5.14.0",
     "husky": "7.0.4",
-    "lint-staged": "12.4.1",
+    "lint-staged": "12.4.2",
     "prettier": "2.6.2",
     "semantic-release": "19.0.2",
     "stylelint": "14.8.4",
