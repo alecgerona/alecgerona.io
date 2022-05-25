@@ -1,3 +1,10 @@
+## [1.7.26](https://github.com/alecgerona/alecgerona.io/compare/v1.7.25...v1.7.26) (2022-05-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency gatsby to v4.15.1 ([0976c66](https://github.com/alecgerona/alecgerona.io/commit/0976c66cbcdf9cd2184f6b39db3a6c6e3e493d38))
+
 ## [1.7.25](https://github.com/alecgerona/alecgerona.io/compare/v1.7.24...v1.7.25) (2022-05-25)
 
 
