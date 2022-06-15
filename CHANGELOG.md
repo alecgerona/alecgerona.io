@@ -1,3 +1,10 @@
+## [1.7.30](https://github.com/alecgerona/alecgerona.io/compare/v1.7.29...v1.7.30) (2022-06-15)
+
+
+### Bug Fixes
+
+* **deps:** update react monorepo to v18.2.0 ([835cd3e](https://github.com/alecgerona/alecgerona.io/commit/835cd3e587f25d1add09d45c89a2ed8da6d731db))
+
 ## [1.7.29](https://github.com/alecgerona/alecgerona.io/compare/v1.7.28...v1.7.29) (2022-06-08)
 
 
