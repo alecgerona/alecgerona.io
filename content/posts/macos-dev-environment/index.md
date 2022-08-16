@@ -5,6 +5,9 @@ description: "Sometimes you just gotta embrace the overheating side"
 featuredImage: macbook.jpg
 ---
 
+## Updates
+15 Aug 2022: Update the `fzf` setup command
+
 ## Rationale
 Gotta be honest. For the longest time, I've avoided the Apple ecosystem.
 I'm still not that okay with it, but we have to try 'em all, right? 
@@ -232,14 +235,18 @@ First of, install it.
 
 ```shell
 brew install fzf
-/usr/local/opt/fzf/install
+$(brew --prefix)/opt/fzf/install
 ```
 
 This allows usage of the `fzf` cli command and enables a bunch of commands out of the gate.
 
 `Ctrl + T` allows you to search for any file and selecting one returns it in your buffer.
 
-`Alt + C` allows you to search for any directory and selecting one moves you to it.
+`Opt + C` allows you to search for any directory and selecting one moves you to it.
+
+By the way, to actually use `Opt` as a modifier instead of inserting special characters,
+go to iTerm2's Preferences -> Profiles -> Profile -> Keys and set your Option key to
+`Esc+`.
 
 These alone however are not enough to maximize your productivity with fzf. By default,
 fzf uses [GNU find](https://man7.org/linux/man-pages/man1/find.1.html) to execute its searches.
@@ -282,6 +289,10 @@ doesn't ignore directories, we can't keep waiting for it to index all those file
 
 We can't. So we need another tool. Namely, [fd](https://github.com/sharkdp/fd). Touted as the simple
 and more user-friendly alternative to `find`, fd has exactly the feature we need: an ignore file.
+
+```shell
+brew install fd
+```
 
 So much like before, we set the environment variable:
 
