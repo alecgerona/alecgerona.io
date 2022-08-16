@@ -1,3 +1,10 @@
+## [1.7.47](https://github.com/alecgerona/alecgerona.io/compare/v1.7.46...v1.7.47) (2022-08-16)
+
+
+### Bug Fixes
+
+* **macos:** update fzf command setup ([ab489b7](https://github.com/alecgerona/alecgerona.io/commit/ab489b78ee550cfdb10bc1fdd5a7e87e1ab1875a))
+
 ## [1.7.46](https://github.com/alecgerona/alecgerona.io/compare/v1.7.45...v1.7.46) (2022-08-07)
 
 
