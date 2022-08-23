@@ -1,3 +1,10 @@
+## [1.7.50](https://github.com/alecgerona/alecgerona.io/compare/v1.7.49...v1.7.50) (2022-08-23)
+
+
+### Bug Fixes
+
+* **deps:** update dependency prismjs to v1.29.0 ([73e4a67](https://github.com/alecgerona/alecgerona.io/commit/73e4a670584b4b07c14590697d38460f0a071750))
+
 ## [1.7.49](https://github.com/alecgerona/alecgerona.io/compare/v1.7.48...v1.7.49) (2022-08-18)
 
 
