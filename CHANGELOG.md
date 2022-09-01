@@ -1,3 +1,10 @@
+## [1.7.52](https://github.com/alecgerona/alecgerona.io/compare/v1.7.51...v1.7.52) (2022-09-01)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @tailwindcss/typography to v0.5.6 ([d054274](https://github.com/alecgerona/alecgerona.io/commit/d0542745ecf9ae7a90d1deb48e657a87c305adbf))
+
 ## [1.7.51](https://github.com/alecgerona/alecgerona.io/compare/v1.7.50...v1.7.51) (2022-08-31)
 
 
