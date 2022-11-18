@@ -90,7 +90,7 @@
     "eslint": "8.27.0",
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-prettier": "4.2.1",
-    "eslint-plugin-react": "7.31.10",
+    "eslint-plugin-react": "7.31.11",
     "gatsby-plugin-postcss": "5.24.0",
     "husky": "7.0.4",
     "lint-staged": "12.5.0",
