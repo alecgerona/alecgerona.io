@@ -88,7 +88,7 @@
     "@typescript-eslint/parser": "5.47.1",
     "commitizen": "4.2.6",
     "eslint": "8.31.0",
-    "eslint-config-prettier": "8.5.0",
+    "eslint-config-prettier": "8.6.0",
     "eslint-plugin-prettier": "4.2.1",
     "eslint-plugin-react": "7.31.11",
     "gatsby-plugin-postcss": "5.25.0",
