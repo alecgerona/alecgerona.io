@@ -80,7 +80,7 @@
     "@semantic-release/git": "10.0.1",
     "@semantic-release/github": "8.0.7",
     "@types/node": "18.14.1",
-    "@types/react": "17.0.53",
+    "@types/react": "18.0.28",
     "@types/react-dom": "17.0.19",
     "@types/react-helmet": "6.1.6",
     "@types/vfile-message": "2.0.0",
