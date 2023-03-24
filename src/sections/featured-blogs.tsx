@@ -2,12 +2,7 @@ import * as React from "react";
 import { graphql, StaticQuery } from "gatsby";
 import BlogCard from "../components/blog-card";
 
-interface ReadingTimeProps {
-  text: string;
-}
-
 interface FieldProps {
-  readingTime: ReadingTimeProps;
   slug: string;
 }
 
@@ -18,6 +13,7 @@ interface FrontmatterProps {
 }
 
 interface NodeProps {
+  timeToRead: number;
   frontmatter: FrontmatterProps;
   fields: FieldProps;
 }
@@ -35,15 +31,13 @@ const FeaturedBlogs: React.FC = () => (
         ) {
           edges {
             node {
+              timeToRead
               frontmatter {
                 title
                 description
                 date(formatString: "MMMM DD, YYYY")
               }
               fields {
-                readingTime {
-                  text
-                }
                 slug
               }
             }
@@ -66,7 +60,7 @@ const FeaturedBlogs: React.FC = () => (
                 key={post.node.fields.slug}
                 date={post.node.frontmatter.date}
                 description={post.node.frontmatter.description}
-                readingTime={post.node.fields.readingTime.text}
+                timeToRead={post.node.timeToRead}
                 title={post.node.frontmatter.title}
                 slug={post.node.fields.slug}
               />

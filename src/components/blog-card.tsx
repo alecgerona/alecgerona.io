@@ -5,7 +5,7 @@ interface ProjectCardProps {
   title: string;
   description: string;
   date: string;
-  readingTime: string;
+  timeToRead: number;
   slug: string;
 }
 
@@ -14,7 +14,7 @@ const BlogCard: React.FC<ProjectCardProps> = ({
   description,
   date,
   slug,
-  readingTime,
+  timeToRead,
 }) => {
   return (
     <Link to={slug}>
@@ -25,7 +25,7 @@ const BlogCard: React.FC<ProjectCardProps> = ({
         </p>
         <div className="text-sm mt-6 flex tracking-wide leading-7 font-bold">
           <span>{date}</span>
-          <span className="ml-6 text-orange uppercase">{readingTime}</span>
+          <span className="ml-6 text-orange uppercase">{timeToRead} min read</span>
         </div>
       </div>
     </Link>

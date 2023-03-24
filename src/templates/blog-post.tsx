@@ -59,9 +59,7 @@ const BlogPostTemplate: React.FC<BlogPostTemplateProps> = ({
           </span>
           <div className="flex justify-center mt-3">
             <span>{post.frontmatter.date}</span>
-            <span className="font-sans ml-8">
-              {post.fields.readingTime.text}
-            </span>
+            <span className="font-sans ml-8">{post.timeToRead} min read</span>
           </div>
         </header>
 
@@ -115,6 +113,7 @@ export const pageQuery = graphql`
       id
       excerpt(pruneLength: 160)
       html
+      timeToRead
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
@@ -130,11 +129,6 @@ export const pageQuery = graphql`
           }
         }
         caption
-      }
-      fields {
-        readingTime {
-          text
-        }
       }
     }
   }

@@ -56,7 +56,6 @@ module.exports = {
             },
           },
           `gatsby-remark-smartypants`,
-          `gatsby-remark-reading-time`,
           {
             resolve: `gatsby-remark-external-links`,
             options: {
