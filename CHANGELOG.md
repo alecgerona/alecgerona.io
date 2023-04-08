@@ -1,3 +1,10 @@
+## [1.7.89](https://github.com/alecgerona/alecgerona.io/compare/v1.7.88...v1.7.89) (2023-04-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency gatsby-plugin-disqus to v1.2.6 ([241ffab](https://github.com/alecgerona/alecgerona.io/commit/241ffab2bbef8bd299bf43f5d6c63a4a85eac1c3))
+
 ## [1.7.88](https://github.com/alecgerona/alecgerona.io/compare/v1.7.87...v1.7.88) (2023-04-07)
 
 
