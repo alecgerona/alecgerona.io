@@ -6,6 +6,8 @@ featuredImage: macbook.jpg
 ---
 
 ## Updates
+17 Apr 2023: Use starship prompt
+
 15 Aug 2022: Update the `fzf` setup command
 
 ## Rationale
@@ -118,19 +120,15 @@ Aside from its [benefits over bash](https://medium.com/@harrison.miller13_28580/
 we'd be making it even better with some choice improvements.
 
 
-### [spaceship-prompt](https://spaceship-prompt.sh/)
+### [starship](https://starship.rs//)
 Before anything else, we need to de-clutter our terminal prompt. What better way to do so than by installing
-spaceship? 
+starship? 
 
 ```shell
-brew install spaceship
+brew install starship
 ```
 
 This provides a minimalist yet information-filled prompt that changes with your context.
-<figure>
-  <img src="https://user-images.githubusercontent.com/10276208/36086434-5de52ace-0ff2-11e8-8299-c67f9ab4e9bd.gif" alt="spaceship">
-  <figcaption>Credit: spaceship-prompt README.md</figcaption>
-</figure>
 
 Make sure that your iTerm2's font has an alternative option for non-Ascii characters since
 Monaco (Apple's default) does not support powerline characters that spaceship needs. I chose
