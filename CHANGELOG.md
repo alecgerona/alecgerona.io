@@ -1,3 +1,15 @@
+# [1.8.0](https://github.com/alecgerona/alecgerona.io/compare/v1.7.90...v1.8.0) (2023-04-17)
+
+
+### Bug Fixes
+
+* **macos:** use starship prompt ([78e7c44](https://github.com/alecgerona/alecgerona.io/commit/78e7c440da5438cff04db1bd730918d5467a3ba6))
+
+
+### Features
+
+* upgrade gatsby to v5 ([cb52077](https://github.com/alecgerona/alecgerona.io/commit/cb5207740a23afe173d84674a089c52f4438fca9))
+
 ## [1.7.90](https://github.com/alecgerona/alecgerona.io/compare/v1.7.89...v1.7.90) (2023-04-16)
 
 
