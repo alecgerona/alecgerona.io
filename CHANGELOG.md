@@ -1,3 +1,10 @@
+## [1.8.3](https://github.com/alecgerona/alecgerona.io/compare/v1.8.2...v1.8.3) (2023-06-14)
+
+
+### Bug Fixes
+
+* **deps:** update dependency gatsby to v5.9.1 [security] ([aa39d60](https://github.com/alecgerona/alecgerona.io/commit/aa39d602cf8545f50cfe29789be2dd234f58ff66))
+
 ## [1.8.2](https://github.com/alecgerona/alecgerona.io/compare/v1.8.1...v1.8.2) (2023-05-28)
 
 
