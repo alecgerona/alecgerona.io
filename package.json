@@ -81,7 +81,7 @@
     "@types/node": "18.17.14",
     "@types/react": "17.0.65",
     "@types/react-dom": "17.0.20",
-    "@types/react-helmet": "6.1.5",
+    "@types/react-helmet": "6.1.7",
     "@types/vfile-message": "2.0.0",
     "@typescript-eslint/eslint-plugin": "5.59.11",
     "@typescript-eslint/parser": "5.59.11",
