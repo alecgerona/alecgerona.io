@@ -1,3 +1,10 @@
+## [1.8.11](https://github.com/alecgerona/alecgerona.io/compare/v1.8.10...v1.8.11) (2023-12-09)
+
+
+### Bug Fixes
+
+* **deps:** update gatsby monorepo ([facda05](https://github.com/alecgerona/alecgerona.io/commit/facda059ee804211da04ba8655530b4fdd8b4772))
+
 ## [1.8.10](https://github.com/alecgerona/alecgerona.io/compare/v1.8.9...v1.8.10) (2023-12-09)
 
 
