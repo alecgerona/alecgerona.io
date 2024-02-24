@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/alecgerona/alecgerona.io/compare/v1.8.13...v1.9.0) (2024-02-24)
+
+
+### Features
+
+* **pyconph24:** add blog post ([7c6f144](https://github.com/alecgerona/alecgerona.io/commit/7c6f144901031b133bf8aadf18c001d3f514f77f))
+
 ## [1.8.13](https://github.com/alecgerona/alecgerona.io/compare/v1.8.12...v1.8.13) (2024-01-26)
 
 
