@@ -12,6 +12,7 @@ const realInterests = [
   `Hamilton`,
   `Spider-man`,
   `Battlestar Galactica`,
+  `Pizza`,
 ];
 
 const Intro: React.FC = () => {
