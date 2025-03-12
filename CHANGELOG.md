@@ -1,3 +1,10 @@
+## [1.9.7](https://github.com/alecgerona/alecgerona.io/compare/v1.9.6...v1.9.7) (2025-03-12)
+
+
+### Bug Fixes
+
+* **deps:** update dependency react-spring to v9.7.5 ([#1268](https://github.com/alecgerona/alecgerona.io/issues/1268)) ([08f0fef](https://github.com/alecgerona/alecgerona.io/commit/08f0fefcf8cb93188683a44214e5de1e5cb6ac58))
+
 ## [1.9.6](https://github.com/alecgerona/alecgerona.io/compare/v1.9.5...v1.9.6) (2025-03-12)
 
 
